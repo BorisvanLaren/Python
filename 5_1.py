@@ -1,5 +1,4 @@
 text = input("Write you text here: ")
-for
 if text.isupper():
     print(f"you typed upper case letters {len(text)}")
 if text.islower():
